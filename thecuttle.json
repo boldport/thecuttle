@@ -85,7 +85,7 @@
       ]
     }, 
     "J3": {
-      "footprint": "th_2p54mm_1x6", 
+      "footprint": "th_2p54mm_1x6-stag", 
       "layer": "top", 
       "location": [
         -31.587018, 
@@ -138,12 +138,13 @@
       ]
     }, 
     "S1": {
-      "footprint": "pushbutton-4contacts", 
+      "footprint": "pushbutton-2contacts", 
       "layer": "top", 
       "location": [
-        -25.076412, 
+        -25.387428, 
         0
-      ]
+      ], 
+      "rotate": 90
     }, 
     "U1": {
       "footprint": "atmega328p-pdip28", 
