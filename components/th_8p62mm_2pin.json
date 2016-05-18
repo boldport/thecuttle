@@ -24,13 +24,6 @@
     {
       "shapes": 
       [
-        {
-          "type": "rect",
-          "width": 0.3,
-          "height": 1,
-          "location": [0, 0],
-          "style": "fill"
-        }
       ]
     },
     "assembly":
