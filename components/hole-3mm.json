@@ -28,7 +28,12 @@
         {
           "layers": ["top","bottom"],
           "type": "circle",
-          "diameter": 1
+          "diameter": 1,
+          "buffer-to-pour": 1.2,
+          "soldermask": {
+            "type": "circle",
+            "diameter": 3.2
+          }
         }
       ],
       "drills":
