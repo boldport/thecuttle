@@ -138,8 +138,8 @@
       "footprint": "th_2p54mm_1x6-stag", 
       "layer": "top", 
       "location": [
-        -31.587018, 
-        -0.0
+        -31.345502, 
+        0
       ], 
       "rotate": 90, 
       "silkscreen": {
@@ -314,7 +314,7 @@
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top and bottom, white\nSoldermask: top and bottom, green\nSurface finish: lead-free"
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top and bottom, white\nSoldermask: top and bottom, blue\nSurface finish: lead-free"
     }, 
     "pcbmode": {
       "font-family": "Overlock-Regular-OTF-webfont", 
