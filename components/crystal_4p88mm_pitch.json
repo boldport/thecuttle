@@ -52,6 +52,7 @@
       "shapes":
       [
         {
+          "layers": ["top","bottom"],
           "type": "circle",
           "diameter": 1.9
         }
