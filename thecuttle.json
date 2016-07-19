@@ -308,13 +308,13 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        -28.239689, 
-        -31.600345
+        -25.822231, 
+        -34.823622
       ], 
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top and bottom, white\nSoldermask: top and bottom, blue\nSurface finish: lead-free"
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top and bottom, white\nSoldermask: top and bottom, blue\nSurface finish: lead-free\n\n* Do not add marking/logos without Boldport's authorisation\n* Remove silkscreen from pads unless specified otherwise\n* Boldport must approve plots before production\n"
     }, 
     "pcbmode": {
       "font-family": "Overlock-Regular-OTF-webfont", 
@@ -323,7 +323,7 @@
       "line-height": "1.2mm", 
       "location": [
         -31.851771, 
-        -42.327594
+        -48.536478
       ], 
       "rotate": 0, 
       "style": "fill", 
